@@ -54,6 +54,21 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "/private/var/folders/3_/9d5vfl4x34v6_ss_xb52knt40000gn/T/AppTranslocation/EDDA0A2C-250A-4A5D-9DCF-4244CEC15A7D/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeFindCodeBlocks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/private/var/folders/3_/9d5vfl4x34v6_ss_xb52knt40000gn/T/AppTranslocation/EDDA0A2C-250A-4A5D-9DCF-4244CEC15A7D/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/private/var/folders/3_/9d5vfl4x34v6_ss_xb52knt40000gn/T/AppTranslocation/EDDA0A2C-250A-4A5D-9DCF-4244CEC15A7D/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/ProcessorCount.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "/private/var/folders/3_/9d5vfl4x34v6_ss_xb52knt40000gn/T/AppTranslocation/EDDA0A2C-250A-4A5D-9DCF-4244CEC15A7D/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeCInformation.cmake"
 		},
 		{
@@ -180,8 +195,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/jiahuatang/CLionProjects/untitled/cmake-build-debug",
-		"source" : "/Users/jiahuatang/CLionProjects/untitled"
+		"build" : "/Users/jiahuatang/CLionProjects/NetflixRepo2/cmake-build-debug",
+		"source" : "/Users/jiahuatang/CLionProjects/NetflixRepo2"
 	},
 	"version" : 
 	{

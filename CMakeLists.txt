@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.25)
-project(untitled)
+project(NetflixRepo2)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(untitled main.cpp)
+add_executable(NetflixRepo2 main.cpp)
 
 
 
@@ -15,4 +15,4 @@ find_package(CURL REQUIRED)
 
 
 include_directories(${CURL_INCLUDE_DIR})
-target_link_libraries(untitled ${CURL_LIBRARIES})
+target_link_libraries(NetflixRepo2 ${CURL_LIBRARIES})

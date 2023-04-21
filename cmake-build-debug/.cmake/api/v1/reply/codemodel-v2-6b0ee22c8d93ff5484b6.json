@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "untitled",
+					"name" : "NetflixRepo2",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "untitled::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-untitled-Debug-52232f1c51a7acacce0f.json",
-					"name" : "untitled",
+					"id" : "NetflixRepo2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NetflixRepo2-Debug-05ac8f0c5f103630f845.json",
+					"name" : "NetflixRepo2",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/jiahuatang/CLionProjects/untitled/cmake-build-debug",
-		"source" : "/Users/jiahuatang/CLionProjects/untitled"
+		"build" : "/Users/jiahuatang/CLionProjects/NetflixRepo2/cmake-build-debug",
+		"source" : "/Users/jiahuatang/CLionProjects/NetflixRepo2"
 	},
 	"version" : 
 	{

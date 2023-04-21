@@ -1,4 +1,4 @@
-/private/var/folders/3_/9d5vfl4x34v6_ss_xb52knt40000gn/T/AppTranslocation/EDDA0A2C-250A-4A5D-9DCF-4244CEC15A7D/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/private/var/folders/3_/9d5vfl4x34v6_ss_xb52knt40000gn/T/AppTranslocation/EDDA0A2C-250A-4A5D-9DCF-4244CEC15A7D/d/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/jiahuatang/CLionProjects/untitled -B /Users/jiahuatang/CLionProjects/untitled/cmake-build-debug
+/private/var/folders/3_/9d5vfl4x34v6_ss_xb52knt40000gn/T/AppTranslocation/EDDA0A2C-250A-4A5D-9DCF-4244CEC15A7D/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /Users/jiahuatang/CLionProjects/NetflixRepo2 -B /Users/jiahuatang/CLionProjects/NetflixRepo2/cmake-build-debug
 -- The C compiler identification is AppleClang 11.0.0.11000033
 -- The CXX compiler identification is AppleClang 11.0.0.11000033
 -- Detecting C compiler ABI info
@@ -11,6 +11,7 @@
 -- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
+-- Found CURL: -lcurl (found version "7.64.1")  
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/jiahuatang/CLionProjects/untitled/cmake-build-debug
+-- Build files have been written to: /Users/jiahuatang/CLionProjects/NetflixRepo2/cmake-build-debug
