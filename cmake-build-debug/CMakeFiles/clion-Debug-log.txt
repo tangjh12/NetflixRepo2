@@ -11,7 +11,6 @@
 -- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Found CURL: -lcurl (found version "7.64.1")  
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /Users/jiahuatang/CLionProjects/NetflixRepo2/cmake-build-debug
